@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: nxc-spray
+description: NetExec bash wrapper to quickly validate compromised credentials across SMB, WinRM, RDP, MSSQL, and FTP
+img: assets/img/nxc-sweep.jpg
 importance: 1
-category: work
+category: offensive-security
 related_publications: true
 ---
 

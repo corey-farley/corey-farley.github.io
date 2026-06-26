@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some cool projects that I've done
 nav: true
 nav_order: 3
-display_categories: []
+display_categories: [offensive-security,defensive-security]
 horizontal: false
 ---
 
